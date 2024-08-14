@@ -1,4 +1,4 @@
-# SQL Query On Employee Promotion and Performance Ratinng
+# SQL Query On Employee Promotion and Performance Rating
 
 ![Employee promotion](https://github.com/user-attachments/assets/17f17a6e-3df0-4cfb-98de-c9977eb11a11)
 
